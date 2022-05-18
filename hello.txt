@@ -12,5 +12,5 @@ hello lhy! hello git!
 hello lhy! hello git!
 hello lhy! hello git!
 hello lhy! hello git!
-hello lhy! hello git!
+hello lhy! hello git! hot-fix test
 
